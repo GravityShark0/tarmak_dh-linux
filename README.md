@@ -1,4 +1,7 @@
 # tarmak_dh-linux
+
+## Currently im using [keyd](https://github.com/rvaiya/keyd) to do all of my remaps which is really easy to setup and im no longer using any of these
+
 NOT DONE, tarmak_dh files i made for linux
 
 repo for saving tarmak_dh files i made for linux, im updating this as for each level i increase in tarmak since im lazy
